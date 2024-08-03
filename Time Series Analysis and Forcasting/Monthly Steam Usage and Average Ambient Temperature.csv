@@ -1,13 +1,3 @@
-Month,Temperature,Usage
-January,21,185.79
-February,24,214.47
-March,32,288.03
-April,47,424.84
-May,50,454.68
-June,59,539.03
-July,68,621.55
-August,74,675.06
-September,62,562.03
-October,50,452.93
-November,41,369.95
-December,30,273.98
+version https://git-lfs.github.com/spec/v1
+oid sha256:210ff1c03ce56ff314f4eb1cb1fcf90db597ce3dcb506ce94c046c7b6f45f4aa
+size 243
